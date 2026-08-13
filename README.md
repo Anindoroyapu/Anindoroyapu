@@ -1,7 +1,6 @@
 # :man_technologist: Anindo Roy
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/anindoroyapu/)
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anindoroy112@gmail.com)](mailto:anindoroy112@gmail.com)
 
 ## Hello! <img src="https://github.com/lucasgdb/lucasgdb/blob/master/assets/hi.gif" width="22">
@@ -9,28 +8,14 @@
 Full-stack Developer (currently working with React.js and Node.js). Developing scalable and robust solutions.
 
 - :office_worker: Full Stack Developer (Currently, front-end heavy)
-- :blue_heart: Stack: ReactJS, NodeJS, React Native and PostgreSQL
+- :blue_heart: Stack: ReactJS, NextJS, VueJS, ViteJs, NodeJS, React Native and PostgreSQL
 - :books: Learning: Atomic Design, Clean Architecture and Design System
 
-> :octocat: [lucasbittencourt.dev](https://dev.ashaa.xyz)
+> :octocat: [anindoroyapu.dev](https://dev.ashaa.xyz)
 
 ---
 
-<details>
-  <summary> <b> Know more about me </b> <i>(Click here to expand)</i> </summary>
-  <br>
-  
-  <a href="https://github.com/anindoroyapu">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
-  
----
-  
-  <p align="center">
-    <a href="https://github.com/anindoroyapu" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=lucasgdb" alt="Trophies" />
-    </a>
-  </p>
+
 
   ## Some technologies
 
@@ -42,8 +27,6 @@ Full-stack Developer (currently working with React.js and Node.js). Developing s
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
@@ -53,12 +36,9 @@ Full-stack Developer (currently working with React.js and Node.js). Developing s
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-square&logo=amazon-aws)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/-Jenkins-064C62?style=flat-square&logo=jenkins&logoColor=white)
-</details>
-⭐️ From [Anindo Roy](https://github.com/YOUR_USERNAME)
+ 
+⭐️ From [Anindo Roy](https://github.com/anindoroyapu)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/vue/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-[More Info](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[More Info](https://github.com/anindoroyapu)
+
